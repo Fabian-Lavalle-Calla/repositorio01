@@ -1,2 +1,2 @@
 # repositorio01
-Academic
+Estimados(as) comunidad tecnológica comparto este código para... Academic purposes
